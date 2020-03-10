@@ -11,9 +11,9 @@ Some key ones:
 	
 ## Setup
 ```
-$ clone this repo
+$  clone this repo
 $ npm install
 $ npm start
-$ You must add your own API key in the controllers/image.js file to connect to Clarifai API.
+$ ## You must add your own API key in the controllers/image.js file to connect to Clarifai API.
 
 You can grab Clarifai API key [here](https://www.clarifai.com/)
